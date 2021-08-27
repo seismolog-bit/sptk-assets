@@ -1,16 +1,16 @@
 [
   {
-    "title": "Login Admin",
-    "subtitle": "Login sebagai Admin Madrasah",
-    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/admin.png",
-    "url": "https://paspor.siap-online.com/cas/login?&service=https://simpadamu.siap.web.id/",
-    "color": "#2ecc71"
-  },
-  {
     "title": "Login PTK",
     "subtitle": "Login sebagai PTK",
-    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/teacher.png",
+    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/hero-teacher.png",
     "url": "https://paspor.siap-online.com/cas/login?&service=https://padamu.siap.web.id/login",
     "color": "#f1c40f"
+  },
+  {
+    "title": "Login Admin",
+    "subtitle": "Login sebagai Admin Madrasah",
+    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/hero-admin.png",
+    "url": "https://paspor.siap-online.com/cas/login?&service=https://simpadamu.siap.web.id/",
+    "color": "#2ecc71"
   }
 ]
