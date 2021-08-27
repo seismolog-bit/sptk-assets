@@ -2,14 +2,14 @@
   {
     "title": "Login Admin",
     "subtitle": "Login sebagai Admin Madrasah",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/admin.png",
     "url": "https://paspor.siap-online.com/cas/login?&service=https://simpadamu.siap.web.id/",
     "color": "#000000"
   },
   {
     "title": "Login PTK",
     "subtitle": "Login sebagai PTK",
-    "img": "",
+    "img": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/imgs/teacher.png",
     "url": "https://paspor.siap-online.com/cas/login?&service=https://padamu.siap.web.id/login",
     "color": "#000000"
   }
