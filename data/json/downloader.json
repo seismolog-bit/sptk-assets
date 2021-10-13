@@ -1,6 +1,6 @@
 [
   {
-    "title": "Dokumen",
+    "menus": "Dokumen",
     "data": [
       {
         "title": "Buku Kerja",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "title": "Bank Soal",
+    "menus": "Bank Soal",
     "data" : [
       {
         "title": "Kisi-Kisi",
@@ -60,7 +60,7 @@
     ]
   },
   {
-    "title": "Kelengkapan",
+    "menus": "Kelengkapan",
     "data" : [
       {
         "title": "Buku Pembelajaran",
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "title": "Tuntunan",
+    "menus": "Tuntunan",
     "data" : [
       {
         "title": "Al-Quran Digital",
