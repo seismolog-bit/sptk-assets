@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Dokumen",
+    "data": [
+      {
+        "title": "Buku Kerja",
+        "url": "posts?categories=185",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/database.png"
+      },
+      {
+        "title": "Perangkat Pembelajaran",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/database.png"
+      },
+      {
+        "title": "Program Semester",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/layers.png"
+      },
+      {
+        "title": "Program Tahunan",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/layout.png"
+      },
+      {
+        "title": "KI/KD",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/open-book.png"
+      },
+      {
+        "title": "Analisis Kompetensi",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/check.png"
+      },
+      {
+        "title": "Analisis Alokasi Waktu",
+        "url": "posts?categories=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/calendar.png"
+      }
+    ]
+  },
+  {
+    "title": "Bank Soal",
+    "data" : [
+      {
+        "title": "Kisi-Kisi",
+        "url": "posts?tags=186",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/book.png"
+      },
+      {
+        "title": "UTS/PTS",
+        "url": "posts?tags=188",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/image.png"
+      },
+      {
+        "title": "PAS/PAT",
+        "url": "posts?tags=0",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/cpu.png"
+      }
+    ]
+  },
+  {
+    "title": "Kelengkapan",
+    "data" : [
+      {
+        "title": "Buku Pembelajaran",
+        "url": "posts?categories=156",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/book.png"
+      },
+      {
+        "title": "Desain",
+        "url": "posts?tags=203",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/image.png"
+      },
+      {
+        "title": "Aplikasi",
+        "url": "posts?tags=203",
+        "icon": "https://raw.githubusercontent.com/seismolog-bit/sptk-assets/master/assets/Feather%20Icons/cpu.png"
+      }
+    ]
+  },
+  {
+    "title": "Tuntunan",
+    "data" : [
+      {
+        "title": "Al-Quran Digital",
+        "url": "posts?categories=202",
+        "icon": "https://www.sekolahpendidik.com/wp-content/uploads/2021/09/Logo-Alquran.png"
+      }
+    ]
+  }
+]
